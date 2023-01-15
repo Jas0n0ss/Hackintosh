@@ -59,12 +59,12 @@
 
 ### Tools
 
-- [diskgenius](https://clamowo.lanzoui.com/b05agns3g)
-- [Easyuefi](archive/EasyUEFI.zip)
+- [Diskgenius](https://clamowo.lanzoui.com/b05agns3g)
+- [Easyuefi](archive/Flavours-macIOS.zip)
 - [balenaEtcher](https://www.balena.io/etcher/)
 - [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)
+- [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 - [OCC](https://mackie100projects.altervista.org/download/occ/?wpdmdl=811&refresh=63c36fc46bd111673752516)
-
 ### Config configuration tutorial:
 
 - [Desktop Coffee Lake](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html)
@@ -109,5 +109,6 @@ Most important thing we all care about is Where is the  `EFI` file, t**his is th
 
   My earlier tutorial : 
 
-  https://www.cnblogs.com/aboa/p/14594968.html
+  - https://www.cnblogs.com/aboa/p/14594968
+  - https://oss.msft.vip/2023/01/15/hackintosh/
 
