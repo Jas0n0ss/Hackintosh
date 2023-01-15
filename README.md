@@ -109,6 +109,7 @@ Most important thing we all care about is Where is the  `EFI` file, t**his is th
 
   My earlier tutorial : 
 
-  - https://www.cnblogs.com/aboa/p/14594968
+  - https://www.cnblogs.com/aboa/p/14594968.html
+  - https://oss.msft.vip/Hackintosh/
   - https://oss.msft.vip/2023/01/15/hackintosh/
 
