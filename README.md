@@ -59,7 +59,7 @@
 
 ### Tools
 
-- [diskgenius](https://www.bicfic.com/diskgenius-crack-torrent//)
+- [diskgenius](https://clamowo.lanzoui.com/b05agns3g)
 - [Easyuefi](https://alist.bo.ms/d/share/software/windows/EasyUEFI.zip?sign=XIIFRV9KKd7c9CZsudLCL8fxc9Qc1NgwrZEmnp7r8HU=:0)
 - [balenaEtcher](https://www.balena.io/etcher/)
 - [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)
