@@ -55,7 +55,7 @@
 - OpenCore Theme
 
   - [Big Sur Theme](https://github.com/LuckyCrack/OpenCore-Themes) (tested running on below 0.7.8 version perfectly fine, 0.8.8 have issues)
-  - [Flavours-macIOS.zip](https://alist.bo.ms/d/share/software/MacOS/opencore%20theme/Flavours-macIOS.zip?sign=u3EbGLdNhk4Cv7u0a2dsQvVphsO9tM4kGFzx9B8KErQ=:0) (perfectly fine running on latest opencore)
+  - [Flavours-macIOS.zip](theme/Flavours-macIOS.zip) (perfectly fine running on latest opencore)
 
 ### Tools
 
