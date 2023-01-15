@@ -4,7 +4,7 @@
 
 #### Hardware
 
-- `Motherboard`: `ASUS ROG B365-i`
+- `Motherboard`: `ASUS ROG B360-i`
 - `CPU`: `I9-9700`
 - `GPU`: `AMD-RX590`
 - `Broadcom`：`BCM94360Z3`
