@@ -44,11 +44,11 @@
 
 - OpenCore config checker
 
-  - https://opencore.slowgeek.com/  (only supported `OC version up to 0.6.6`)
+  - [https://opencore.slowgeek.com/](https://opencore.slowgeek.com/)  (only supported `OC version up to 0.6.6`)
 
     ![image-20230115140300527](img/image-20230115140300527.png)
 
-  - https://sc.ocutils.me/ (supported all `OC` versions)
+  - [https://sc.ocutils.me/](https://sc.ocutils.me/) (supported all `OC` versions)
 
     ![image-20230115140213338](img/image-20230115140213338.png)
 
@@ -109,7 +109,7 @@ Most important thing we all care about is Where is the  `EFI` file, t**his is th
 
   My earlier tutorial : 
 
-  - https://www.cnblogs.com/aboa/p/14594968.html
-  - https://oss.msft.vip/Hackintosh/
-  - https://oss.msft.vip/2023/01/15/hackintosh/
+  - [https://www.cnblogs.com/aboa/p/14594968.htm](https://www.cnblogs.com/aboa/p/14594968.html)
+  - [https://oss.msft.vip/Hackintosh/](https://oss.msft.vip/Hackintosh/)
+  - [https://oss.msft.vip/2023/01/15/hackintosh/](https://oss.msft.vip/2023/01/15/hackintosh/)
 
