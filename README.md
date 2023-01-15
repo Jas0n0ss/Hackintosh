@@ -75,8 +75,6 @@
 
 - Asus 300 series motherboard may have `F1` issue when boot each time:
 
-  ![img](../images/cmos-error.d7acd2cd.jpeg)
-
   ![img](img/cmos-error.d7acd2cd.jpeg)
 
   **Fix solution**:
@@ -90,7 +88,7 @@
     ![image-20230115141515377](img/image-20230115141515377.png)
 
   - `Kernel`->`add`
-  
+
     ![image-20230115141536109](img/image-20230115141536109.png)
 
 ### Finnal work
