@@ -46,11 +46,11 @@
 
   - https://opencore.slowgeek.com/  (only supported `OC version up to 0.6.6`)
 
-    ![image-20230115140300527](../images/image-20230115140300527.png)
+    ![image-20230115140300527](img/image-20230115140300527.png)
 
   - https://sc.ocutils.me/ (supported all `OC` versions)
 
-    ![image-20230115140213338](../images/image-20230115140213338.png)
+    ![image-20230115140213338](img/image-20230115140213338.png)
 
 - OpenCore Theme
 
@@ -75,32 +75,32 @@
 
 - Asus 300 series motherboard may have `F1` issue when boot each time:
 
-  ![img](../images/cmos-error.d7acd2cd.jpeg)
+  ![img](img/cmos-error.d7acd2cd.jpeg)
 
   **Fix solution**:
 
   - `ACPI`->`Patch` (Use `OpenCore Configurator` just right click it will show the patch at the bottom menu)
 
-    ![image-20230115141452983](../images/image-20230115141452983.png)
+    ![image-20230115141452983](img/image-20230115141452983.png)
 
   - `kernal`->`patch`
 
-    ![image-20230115141515377](../images/image-20230115141515377.png)
+    ![image-20230115141515377](img/image-20230115141515377.png)
 
   - `Kernel`->`add`
 
-    ![image-20230115141536109](../images/image-20230115141536109.png)
+    ![image-20230115141536109](img/image-20230115141536109.png)
 
 ### Finnal work
 
 - Screenshots
 
-  ![img](../images/1715511-20210329232424477-584101276.png)
+  ![img](img/1715511-20210329232424477-584101276.png)
 
-  ![img](../images/1715511-20210329231930166-819812934.png)
+  ![img](img/1715511-20210329231930166-819812934.png)
 
-  ![img](../images/1715511-20210329232040695-679347285.png)
+  ![img](img/1715511-20210329232040695-679347285.png)
 
-- [OpenCore EFI-Asus-I7-9700-RX590-13.1](attachment/Asus-I7-9700-RX590-13.1.zip)
+- [OpenCore EFI-Asus-I7-9700-RX590-13.1](EFI/Asus-I7-9700-RX590-13.1.zip)
 
 https://www.cnblogs.com/aboa/p/14594968.html
