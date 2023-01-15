@@ -107,8 +107,7 @@ Most important thing we all care about is Where is the  `EFI` file, t**his is th
 
   ![img](img/1715511-20210329232040695-679347285.png)
 
-  ### Most thing we all care about
+  My earlier tutorial : 
 
-  
+  https://www.cnblogs.com/aboa/p/14594968.html
 
-https://www.cnblogs.com/aboa/p/14594968.html
