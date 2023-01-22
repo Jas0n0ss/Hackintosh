@@ -91,24 +91,38 @@
 
     ![image-20230115141536109](img/image-20230115141536109.png)
 
-### EFI
+### Opencore bootloader
 
-Most important thing we all care about is Where is the  `EFI` file, t**his is the perfect fine running on my machine including everything `99.9999% perfection`**, *not guarantee can perfectly running on your machine.*
+---
+
+Most important thing we all care about  is the  `EFI` file, **This is the perfectly running on my machine including everything I can say it’s 100% perfection, everything fountion well**, *not guarantee can perfectly run on any other machine.*
 
 **[OpenCore EFI-Asus-I7-9700-RX590-13.1](archive/Asus-I7-9700-RX590-13.1.zip)**
+
+---
 
 ### Finnal work
 
 - Screenshots
 
-  ![img](img/1715511-20210329232424477-584101276.png)
+  ![image-20230117233848089](./img/image-20230117233848089.png)
 
-  ![img](img/1715511-20210329231930166-819812934.png)
+  ![image-20230118000027878](./img/image-20230118000027878.png)
 
+  ![image-20230117231719580](./img/image-20230117231719580.png)
+
+  ![image-20230117234400488](./img/image-20230117234400488.png)
+
+  ![image-20230117234654906](./img/image-20230117234654906.png)
+  
+  ![image-20230117234730296](./img/image-20230117234730296.png)
+  
+  ![image-20230118000438433](./img/image-20230118000438433.png)
+  
   ![img](img/1715511-20210329232040695-679347285.png)
-
+  
   My earlier tutorial : 
-
+  
   - [https://www.cnblogs.com/aboa/p/14594968.htm](https://www.cnblogs.com/aboa/p/14594968.html)
   - [https://oss.msft.vip/Hackintosh/](https://oss.msft.vip/Hackintosh/)
   - [https://oss.msft.vip/2023/01/15/hackintosh/](https://oss.msft.vip/2023/01/15/hackintosh/)
