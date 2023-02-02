@@ -4,8 +4,8 @@
 
 > This is a Hackintosh on both AMD and Intel Platform installation tutorial, May this repo help you,feel free to discuss on different devices and different platforms.
 
-- [ADM Platform tutorial](AMD Platform/README.md)
-- [Intel Platform tutorial](Intel Platform/README.md)
+- [AMD Platform tutorial](AMD-Platform/README.md)
+- [Intel Platform tutorial](Intel-Platform/README.md)
 - [OC themes](themes)
 - [Tools that we need on installation process](Tools)
 
