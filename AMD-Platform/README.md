@@ -28,7 +28,25 @@ Memory: 32GB, Storage: 465GB
 
 > EFI
 
-- [x570i-5950x-rx5700-eth0-wifi-Ventura-13.2.zip](http://alist.bo.ms/d/share/hackintosh/EFI/x570i-5950x-rx5700-eth0-wifi-Ventura-13.2.zip?sign=1EWGvZoDzirFwzEHoYZAUKJh_jAkHXBYApQGrS4C1Ng=:0)
+- [x570i-5950x-rx5700-eth0-wifi-Ventura-13.2.zip](EFI/x570i-5950x-rx5700-eth0-wifi-Ventura-13.2.zip)
+
+> Drivers
+
+- Ethernet: 
+
+  - https://github.com/donatengit/AppleIGB/ 
+
+    > Note for **`AppleLGB`**
+
+    Basically it can be worked, but it disconnected sometimes with no reason, To enable it you have to `make sure Above-4G decoding enabled` in `BIOS` and don't forget to remove `npci=0x2000` in `boot-args`
+
+  - https://github.com/acidanthera/IntelMausi (doesn't work on my machine)
+
+  - https://github.com/khronokernel/SmallTree-I211-AT-patch (doesn't work on my machine)
+
+- WIFI: https://github.com/OpenIntelWireless/itlwm
+
+- Bluetooth: https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
 > screenshot
 
