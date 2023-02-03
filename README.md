@@ -17,6 +17,8 @@
 | MEM         | Kingston DDR4 3200 *2 |
 | SSD         | Western Digital 500GB |
 
+### EFI detailed tutorial
+
 - [AMD Platform tutorial](AMD-Platform/README.md)
 - [Intel Platform tutorial](Intel-Platform/README.md)
 - [OC themes](themes)
