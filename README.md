@@ -24,7 +24,7 @@
 - [OC themes](themes)
 - [Tools that we need on installation process](Tools)
 
-> More info or useful link
+### More info 
 
 - [https://www.cnblogs.com/aboa/p/14594968.htm](https://www.cnblogs.com/aboa/p/14594968.html)
 - [https://oss.msft.vip/Hackintosh/](https://oss.msft.vip/Hackintosh/)
