@@ -66,19 +66,19 @@ Memory: 32GB, Storage: 465GB
 
   - https://github.com/acidanthera/AirportBrcmFixup
 
-  ![image-20230204003656662](../../Jas0n0ss.github.io/source/images/image-20230204003656662.png)
+  ![image-20230204003656662](./AMD/image-20230204003656662.png)
 
-  ![image-20230204003819994](../../Jas0n0ss.github.io/source/images/image-20230204003819994.png)
+  ![image-20230204003819994](./AMD/image-20230204003819994.png)
 
-  ![image-20230204003929258](../../Jas0n0ss.github.io/source/images/image-20230204003929258.png)
+  ![image-20230204003929258](./AMD/image-20230204003929258.png)
 
 - Bluetooth (` Connection is good but Airdrop only could be discovered by other machine, itself can't discover by other machine`)
 
   https://github.com/acidanthera/BrcmPatchRAM
 
-  ![image-20230204004202202](../../Jas0n0ss.github.io/source/images/image-20230204004202202.png)
+  ![image-20230204004202202](./AMD/image-20230204004202202.png)
 
-  ![image-20230204004315399](../../Jas0n0ss.github.io/source/images/image-20230204004315399.png)
+  ![image-20230204004315399](./AMD/image-20230204004315399.png)
 
 ##### Screenshots
 
