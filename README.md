@@ -4,6 +4,19 @@
 
 > This is a Hackintosh on both AMD and Intel Platform installation tutorial, May this repo help you,feel free to discuss on different devices and different platforms.
 
+### Hardware
+
+| Name        | description           |
+| ----------- | --------------------- |
+| Motherboard | ROG X570-I            |
+| Ethernet    | Intel I211            |
+| WLAN        | DELL DW 1820A         |
+| WLAN        | Intel AX200           |
+| GPU         | ROG AMD RX5700XT 8GB  |
+| CPU         | AMD R9 5950X          |
+| MEM         | Kingston DDR4 3200 *2 |
+| SSD         | Western Digital 500GB |
+
 - [AMD Platform tutorial](AMD-Platform/README.md)
 - [Intel Platform tutorial](Intel-Platform/README.md)
 - [OC themes](themes)
