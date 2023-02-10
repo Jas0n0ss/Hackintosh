@@ -6,21 +6,21 @@
 
 ### Hardware
 
-| Name        | description           |
-| ----------- | --------------------- |
-| Motherboard | ROG X570-I            |
-| Ethernet    | Intel I211            |
-| WLAN        | DELL DW 1820A         |
-| WLAN        | Intel AX200           |
-| GPU         | ROG AMD RX5700XT 8GB  |
-| CPU         | AMD R9 5950X          |
-| MEM         | Kingston DDR4 3200 *2 |
-| SSD         | Western Digital 500GB |
+|    Name     |         **AMD**         |    Name     |          INTEL          |
+| :---------: | :---------------------: | :---------: | :---------------------: |
+| Motherboard | ROG STRIX X570-I GAMING | Motherboard | ROG STRIX B360-I GAMING |
+|  Ethernet   |     Intel® I211-AT      |  Ethernet   |      Intel® I219V       |
+|    WLAN     |      DELL DW 1820A      |    WLAN     |        BCM943602        |
+|    WLAN     |  Intel® Wi-Fi 6 AX200   |     GPU     |        AMD R590         |
+|     GPU     |  ROG AMD RX5700XT 8GB   |     CPU     |      Intel I9-9900      |
+|     CPU     |      AMD R9 5950X       |     MEM     |  Kingston DDR4 2133*2   |
+|     MEM     |  Kingston DDR4 3200 *2  |     SSD     |       Kingston 1T       |
+|     SSD     |  Western Digital 500GB  |     SSD     |     Kingston 512GB      |
 
 ### EFI detailed tutorial
 
 - [AMD-x570i-5950x-RX5700XT](AMD-Platform/README.md)
-- [Intel-B360i-I9-9900-RX590](Intel-Platform/README.md)
+- [Intel-B360I-I9-9900-RX590](Intel-Platform/README.md)
 - [OpenCore Themes](https://github.com/chris1111/My-Simple-OC-Themes)
 - [Tools we need on installation process](Tools)
 
