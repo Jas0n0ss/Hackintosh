@@ -19,10 +19,10 @@
 
 ### EFI detailed tutorial
 
-- [AMD Platform tutorial](AMD-Platform/README.md)
-- [Intel Platform tutorial](Intel-Platform/README.md)
-- [OC themes](themes)
-- [Tools that we need on installation process](Tools)
+- [AMD-x570i-5950x-RX5700XT](AMD-Platform/README.md)
+- [Intel-B360i-I9-9900-RX590](Intel-Platform/README.md)
+- [OpenCore Themes](https://github.com/chris1111/My-Simple-OC-Themes)
+- [Tools we need on installation process](Tools)
 
 ### More info 
 
