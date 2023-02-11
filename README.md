@@ -20,7 +20,7 @@
 ### EFI detailed tutorial
 
 - [AMD-x570i-5950x-RX5700XT](AMD-x570i-5950x-RX5700XT/README.md)
-- [Intel-B360I-I9-9900-RX590](Intel-B360I-I9-9900-RX590/README.md)
+- [Intel-B360I-I9-9900-RX590](Intel-B360i-I9-9900-RX590/README.md)
 - [OpenCore Themes](https://github.com/chris1111/My-Simple-OC-Themes)
 - [Tools we need on installation process](Tools)
 
