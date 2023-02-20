@@ -6,16 +6,16 @@
 
 ### Hardware
 
-|    Name     |         **AMD**         |    Name     |          INTEL          |
-| :---------: | :---------------------: | :---------: | :---------------------: |
-| Motherboard | ROG STRIX X570-I GAMING | Motherboard | ROG STRIX B360-I GAMING |
-|  Ethernet   |     Intel® I211-AT      |  Ethernet   |      Intel® I219V       |
-|    WLAN     |      DELL DW 1820A      |    WLAN     |        BCM943602        |
-|    WLAN     |  Intel® Wi-Fi 6 AX200   |     GPU     |        AMD R590         |
-|     GPU     |  ROG AMD RX5700XT 8GB   |     CPU     |      Intel I9-9900      |
-|     CPU     |      AMD R9 5950X       |     MEM     |  Kingston DDR4 2133*2   |
-|     MEM     |  Kingston DDR4 3200 *2  |     SSD     |       Kingston 1T       |
-|     SSD     |  Western Digital 500GB  |     SSD     |     Kingston 512GB      |
+|    Name     |         **AMD**         |          INTEL          |
+| :---------: | :---------------------: | :---------------------: |
+| Motherboard | ROG STRIX X570-I GAMING | ROG STRIX B360-I GAMING |
+|  Ethernet   |     Intel® I211-AT      |      Intel® I219V       |
+|    WLAN     |      DELL DW 1820A      |        BCM943602        |
+|    WLAN     |  Intel® Wi-Fi 6 AX200   |        AMD R590         |
+|     GPU     |  ROG AMD RX5700XT 8GB   |      Intel I9-9900      |
+|     CPU     |      AMD R9 5950X       |  Kingston DDR4 2133*2   |
+|     MEM     |  Kingston DDR4 3200 *2  |       Kingston 1TB      |
+|     SSD     |  Western Digital 500GB  |     Kingston 512GB      |
 
 ### EFI detailed tutorial
 
