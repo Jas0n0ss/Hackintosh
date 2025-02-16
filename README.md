@@ -32,6 +32,6 @@
 ### More info 
 
 - [https://www.cnblogs.com/aboa/p/14594968.htm](https://www.cnblogs.com/aboa/p/14594968.html)
-- [https://git.msft.vip/Hackintosh/](https://git.msft.vip/Hackintosh/)
-- [https://git.msft.vip/2023/01/15/hackintosh/](https://git.msft.vip/2023/01/15/hackintosh/)
+- [https://git.msfts.org/](https://git.msfts.org/)
+- [https://www.msft.vip/2023/01/15/hackintosh/](https://www.msft.vip/2023/01/15/hackintosh/)
 
